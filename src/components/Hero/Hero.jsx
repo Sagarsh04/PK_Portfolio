@@ -15,13 +15,13 @@ export const Hero = () => {
           Contact Me
         </a>
           <a 
-            href="/public/Pankaj_Resume.pdf" 
+            href="https://drive.google.com/file/d/1ZMAaSk86ZQ2HQuj6DNAa4g62c6fl99V5/view?usp=drive_link" 
             download 
             className={styles.resumeBtn}>
             Download Resume
           </a>
            <a 
-            href="/public/Work_Portfolio.pdf"  // or a different file like /work-portfolio.pdf
+            href="https://drive.google.com/file/d/1UBdkp__bGWUJh6Uf82hxgd7vJGmXdDfU/view?usp=sharing"  // or a different file like /work-portfolio.pdf
             target="_blank" 
             rel="noopener noreferrer"
             className={styles.portfolioBtn}
