@@ -1,0 +1,31 @@
+[
+  {
+    "role": "Senior Design Engineer",
+    "organisation": "Devil Truss",
+    "startDate": "Mar, 2024",
+    "endDate": "Nov, 2024",
+    "experiences": [" Designed and developed robust aluminum truss ",
+     " Improved design efficiency by 15% through component standardization "]
+  
+  },
+  {
+    "role": "Design Engineer",
+    "organisation": "Rukmani House",
+    "startDate": "June, 2023",
+    "endDate": "March, 2024",
+    "experiences": [" Executed detailed 3D modeling and drafting of furniture",
+     " Collaborated with production teams to ensure design feasibility"]
+    
+  },
+  {
+    "role": "Design Engineer",
+    "organisation": "Fabrinox Arc",
+    "startDate": "Aug, 2019",
+    "endDate": "Jun, 2023",
+    "experiences": [
+      " Executed detailed 3D modeling and drafting of furniture rack.",
+      "Designed custom mechanical components for industrial applications."
+    ]
+   
+  }
+]

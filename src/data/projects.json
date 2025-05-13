@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Modular Truss System Design",
+    "imageSrc": "projects/Truss.jpg",
+    "description": "Designed modular and easy-to-assemble steel truss systems optimized for efficient transport and quick touring setups.",
+    "skills": ["SolidWorks", "AutoCad"]
+   
+  },
+  {
+    "title": "Lightweight Stage Platform",
+    "imageSrc": "projects/Truss2.jpg",
+    "description": " Designed an aluminum-based platform that balanced strength and portability for touring events",
+    "skills": ["SolidWorks", "AutoCad"]
+  },
+  {
+    "title": "Modular Display Furniture Design",
+    "imageSrc": "projects/tt.png",
+    "description": "Designed lightweight, easy-to-assemble furniture units using engineered wood and metal frames for compact storage.",
+    "skills": ["SolidWorks", "AutoCad"]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "AutoCad",
+    "imageSrc": "skills/Autocad.png"
+  },
+  {
+    "title": "SolidWorks",
+    "imageSrc": "skills/SolidWorks.png"
+  },
+  {
+    "title": " Siemens NX",
+    "imageSrc": "skills/SiemenNX.png"
+  },
+  {
+    "title": "SolidEdge",
+    "imageSrc": "skills/SolidEdge.png"
+  },
+  {
+    "title": "CypCut",
+    "imageSrc": "skills/CypCut.png"
+  }
+]
