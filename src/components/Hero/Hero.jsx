@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Pankaj </h1>
         <p className={styles.description}>
-          I'm a Product Designer with 5 years of experience specializing in 3D modeling, mechanical design, and CAD drafting using AutoCAD and SolidWorks. I bring ideas to life through precise engineering and innovative design solutions. Reach out if you'd like to collaborate or learn more!
+          I'm a Product Designer with 5+ years of experience specializing in 3D modeling, mechanical design, and CAD drafting using AutoCAD and SolidWorks. I bring ideas to life through precise engineering and innovative design solutions. Reach out if you'd like to collaborate or learn more!
         </p>
         <a href="mailto:sharmapankajj3@gmail.com" className={styles.contactBtn}>
           Contact Me
